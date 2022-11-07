@@ -1,6 +1,0 @@
-import time 
-def new_func():
-    time.sleep(1)
-for A in range(1,11):
-    print(A)
-    new_func()
