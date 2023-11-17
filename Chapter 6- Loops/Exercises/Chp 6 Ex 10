@@ -1,0 +1,6 @@
+for i in reversed(range(4)): print(i)
+
+groceries= ["Banana","Butter","Cheese"]
+for grocery in groceries:
+    #for_each_iteration_print value_of the grocery
+    print(grocery)
